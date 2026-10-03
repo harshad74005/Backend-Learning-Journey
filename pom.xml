@@ -1,9 +1,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ty</groupId>
+<<<<<<< HEAD
   <artifactId>Employee_management_system</artifactId>
   <version>0.0.1-SNAPSHOT</version>
     <dependencies>
+=======
+  <artifactId>Student_Management_System</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+   <dependencies>
+>>>>>>> 21b4cb6df87802d9641de1f43c1437cf761392f4
   	<dependency>
     <groupId>org.postgresql</groupId>
     <artifactId>postgresql</artifactId>
